@@ -11,3 +11,16 @@ This contract will mint the tokens automatically and distribute them to buyers i
 It will need to inherit Crowdsale, CappedCrowdsale, TimedCrowdsale, RefundableCrowdsale, and MintedCrowdsale.
 
 You will conduct the crowdsale on the Kovan or Ropsten testnet in order to get a real-world pre-production test in.
+
+
+# PupperCoin
+
+![PupperCoin](PupperCoin.png)
+
+# PupperCoinSale
+
+![PupperCoinSale](PupperCoinSale.png)
+
+# PupperCoinSaleDeployer
+
+![PupperCoinSale](PupperCoinSaleDeployer.png)
